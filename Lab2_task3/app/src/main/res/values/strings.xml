@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Lab2</string>
+
+    <!-- Screen 1 Strings -->
+    <string name="title_personal_analyzer">Penganalisis Peribadi</string>
+    <string name="label_input_name">Nama Penuh:</string>
+    <string name="label_input_dob">Tarikh Lahir:</string>
+    <string name="hint_name">Nama Penuh (cth: Ahmad bin Ali)</string>
+    <string name="hint_dob">Tarikh Lahir (YYYY-MM-DD)</string>
+    <string name="btn_analyze">ANALISIS SAYA</string>
+    <string name="btn_open_web">Open Google</string>
+    <string name="btn_share">Text Sharing</string>
+    <string name="error_empty">Sila masukkan nama dan tarikh lahir!</string>
+
+    <!-- Screen 2 Strings -->
+    <string name="title_analysis_result">HASIL ANALISIS</string>
+    <string name="header_name_analysis">ANALISIS NAMA</string>
+    <string name="header_dob_analysis">ANALISIS TARIKH LAHIR</string>
+
+    <string name="label_name">Nama: %1$s</string>
+    <string name="label_char_count">Jumlah abjad: %1$d</string>
+    <string name="label_vowel_count">Bilangan vokal: %1$d</string>
+    <string name="label_repeated_chars">Abjad berulang: %1$s</string>
+
+    <string name="label_age">Umur anda: %1$d tahun</string>
+    <string name="label_day_of_birth">Dilahirkan pada: %1$s</string>
+    <string name="btn_back">Kembali</string>
+</resources>
